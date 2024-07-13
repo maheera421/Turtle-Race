@@ -25,6 +25,3 @@ This code simulates a fun turtle race game using Python's `turtle` module. Users
 5. **Ending the Race**:
    - The race stops, and the screen remains open until the user clicks on it to close.
 
-🔧 **Note for Successful Implementation**:
-
-For the successful implementation of this code, it is recommended to run it in an environment set up with a virtual environment (`venv`) or using an IDE like PyCharm, which is well-suited for Python development. This is because the code relies on the `turtle` module, which may require proper configuration and dependencies that are typically managed within a virtual environment. 
