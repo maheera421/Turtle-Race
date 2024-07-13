@@ -1,7 +1,7 @@
 # Turtle-Race
 🐢 **Code Description**:
 
-This code simulates a fun turtle race game using Python's `turtle` module. Users can place bets on which turtle they think will win the race. The game displays a race between six turtles, each with a different color. Once the user places their bet, the race starts, and the turtles move forward randomly until one of them crosses the finish line.
+The code simulates a fun turtle race game using Python's `turtle` module. Users can place bets on which turtle they think will win the race. The game displays a race between six turtles, each with a different color. Once the user places their bet, the race starts, and the turtles move forward randomly until one of them crosses the finish line.
 
 🏁 **Specifications of the Code**:
 
